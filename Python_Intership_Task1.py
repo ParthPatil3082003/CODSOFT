@@ -11,7 +11,6 @@ class TodoApp:
         self.style.configure('Green.TButton', font=('Broadway', 14), padding=5, background = 'green', foreground='green')
         self.style.configure('Red.TButton', font=('Broadway', 14), padding=5,background='red', foreground='red')
         self.style.configure('Blue.TButton', font=('Broadway', 14), padding=5,background='blue', foreground='blue')
-
         self.style.configure('TEntry', font=('Agency FB', 14), padding=5)
         self.style.configure('TListbox', font=('Agency FB', 14), padding=5)
 
