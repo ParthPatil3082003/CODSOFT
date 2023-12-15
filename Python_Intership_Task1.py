@@ -1,4 +1,3 @@
-#Author Parth Patil
 import tkinter as tk
 from tkinter import ttk, messagebox
 
