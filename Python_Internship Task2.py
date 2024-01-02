@@ -23,7 +23,7 @@ def calculate():
 
 # Create main window
 window = tk.Tk()
-window.title("Simple Calculator")
+window.title("Simple Calculator By Parth Patil")
 
 # Entry widgets for user input
 entry_num1 = tk.Entry(window, width=20)
