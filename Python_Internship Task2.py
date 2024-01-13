@@ -59,3 +59,4 @@ operation_var.set("+")  # default operation
 
 # Start the main loop
 window.mainloop()
+
